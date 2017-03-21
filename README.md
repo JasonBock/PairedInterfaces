@@ -1,0 +1,2 @@
+# InlineMapping
+Someone asked me if I could create an analyzer that enforced (and corrected) code that implemented one interface, but not another one. Essentially, make sure code always implemented a related interface for a specific interface. This POC is the result.
